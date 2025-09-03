@@ -61,3 +61,4 @@ The Raspberry Pi 5 must be initially setup as well with the necessary libraries 
 - Developed as part of the Embedded Systems, Cyber-Physical Systems and Robotics (INHN0018) course at TUM. 
 - Thanks to BSVW Heilbronn for field insights
 - Built on OpenCV and Ultralytics YOLO
+- Stereo Vision Github-Repository [Video Link] (https://github.com/LearnTechWithUs/Stereo-Vision)
